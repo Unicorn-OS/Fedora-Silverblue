@@ -1,0 +1,1 @@
+- [Silverblue's move to bootable OCI images: Linux will never be the same](https://youtu.be/X8h304Jp9N8)
