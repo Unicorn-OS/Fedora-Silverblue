@@ -1,3 +1,6 @@
+Home: https://silverblue.fedoraproject.org/
+- about: https://silverblue.fedoraproject.org/about
+
 # Overview:
 [Fedora Silverblue: is this the FUTURE of Linux? - Project of the Month](https://youtu.be/5TjIzUJtF-I)
 
