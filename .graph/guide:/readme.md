@@ -7,5 +7,7 @@
 >**Give your containers a custom home directory**
 This isn't necessary if you only intend to use a single container, but if you use multiple containers it's a must: when creating a container using Distrobox, the --home flag is used to specify a custom home directory. This way the container won't pollute your actual home directory, and two different containers using the same files in your home directory won't conflict.
 
+- https://www.redhat.com/sysadmin/fedora-silverblue
+
 # index:
 - https://github.com/fedora-silverblue/silverblue-docs/issues/1
