@@ -1,4 +1,4 @@
-sch: https://www.google.com/search?q=fedora+AND+%22silverblue%22+enable+ssh+access+command+line
+sch: https://www.google.com/search?q=fedora+silverblue+enable+remote+access+command+line, https://www.google.com/search?q=fedora+AND+%22silverblue%22+enable+ssh+access+command+line
 
 # enable by command line
 
