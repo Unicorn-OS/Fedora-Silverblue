@@ -10,7 +10,7 @@ https://discussion.fedoraproject.org/t/overlaying-libvirt-on-silverblue-kinoite-
 
 # in Podman
 ## Vagrant
-**keep!, Top.Favorite:**
-- https://discussion.fedoraproject.org/t/playing-around-with-fedora-coreos-using-vagrant-libvirt-on-fedora-silverblue/1704
-
 - relation: https://discussion.fedoraproject.org/t/toolbox-with-vagrant-libvirt-kvm/2131
+
+### **keep!, Top.Favorite:**
+- https://discussion.fedoraproject.org/t/playing-around-with-fedora-coreos-using-vagrant-libvirt-on-fedora-silverblue/1704
