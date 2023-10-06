@@ -1,0 +1,6 @@
+Use the command 'groupinfo' to determine packages!
+
+```
+toolbox enter
+sudo dnf groupinfo multimedia
+```
