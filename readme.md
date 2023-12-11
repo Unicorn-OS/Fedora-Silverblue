@@ -15,3 +15,5 @@ doc: https://docs.fedoraproject.org/en-US/fedora-silverblue/
 
 # Inspire.
 SteamOS, Chrome & Chromium OS, Nix OS
+
+# Sister project for KDE: [Fedora Kinoite](https://fedoraproject.org/kinoite/)
